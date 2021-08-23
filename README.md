@@ -8,5 +8,5 @@ cd ~/Desktop/ && git clone https://github.com/xiky/MyCodeSnippets.git && cp -rf 
 ```
 
 ```QMUI_Snippets
-cd ~/Desktop/ && git clone https://github.com/QMUI/QMUI_iOS_CodeSnippets.git && cp -rf ~/Desktop/QMUI_iOS_CodeSnippets/. ~/Library/Developer/Xcode/UserData/CodeSnippets
+cd ~/Desktop/ && git clone https://github.com/QMUI/QMUI_iOS_CodeSnippets.git && cp -rf ~/Desktop/QMUI_iOS_CodeSnippets/*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets
 ```
