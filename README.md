@@ -12,7 +12,7 @@ cp -rf ~/Desktop/MyCodeSnippets/CodeSnippets/*.codes* ~/Library/Developer/Xcode/
 ```
 MySnippets
 
-cd ~/Desktop/ && git clone https://github.com/xiky/MyCodeSnippets.git && cp -rf ~/Desktop/MyCodeSnippets/CodeSnippets/*.codes* ~/Library/Developer/Xcode/UserData/CodeSnippets
+cd ~/Desktop/ && git clone https://github.com/xiky/MyCodeSnippets.git && mkdir -p ~/Library/Developer/Xcode/UserData/CodeSnippets && cp -rf ~/Desktop/MyCodeSnippets/CodeSnippets/*.codes* ~/Library/Developer/Xcode/UserData/CodeSnippets
 ```
 
 ```
